@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1715796773806,
+      "tag": "0000_cuddly_namor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1716034848692,
+      "tag": "0001_lethal_sunspot",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1716174693067,
+      "tag": "0002_typical_zemo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1716180135536,
+      "tag": "0003_pink_captain_flint",
+      "breakpoints": true
+    }
+  ]
+}
