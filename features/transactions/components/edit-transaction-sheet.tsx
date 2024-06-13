@@ -99,7 +99,7 @@ export const EditTransactionSheet = () => {
     } : {
         accountId: "",
         categoryId: "",
-        ammount: "",
+        amount: "",
         date: new Date(),
         payee: "",
         notes: "",
